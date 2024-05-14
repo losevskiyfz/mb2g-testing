@@ -44,7 +44,7 @@
 
     <scm>
         <developerConnection>
-            scm:git:https://github.com:losevskiyfz/mb2g-testing.git
+            scm:git:https://github.com/losevskiyfz/mb2g-testing.git
         </developerConnection>
       <tag>mb2g-testing-1.0</tag>
   </scm>
